@@ -1,2 +1,2 @@
 # currencyConverter
-Для того, щоб працювало введення в консолі, потрібно в терміналі прописати npm install readline-sync.
+In order for the input in the console to work, you need to register npm install readline-sync in the terminal.
